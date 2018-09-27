@@ -1,0 +1,13 @@
+/** Variables
+ ---------------------------------------------------------*/
+ $primary-color: #fff;
+ $dark-grey: #525252;
+ $primary-text: #000;
+ $current-color: #5dc21e;
+
+/** Mixin
+ ---------------------------------------------------------*/
+
+@mixin easeOut {
+    transition: all 0.5s ease-out;
+}

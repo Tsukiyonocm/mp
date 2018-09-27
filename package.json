@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Personal Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss -o css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tsukiyonocm/Personal.git"
+  },
+  "author": "Craig Menne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tsukiyonocm/Personal/issues"
+  },
+  "homepage": "https://github.com/Tsukiyonocm/Personal#readme",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
